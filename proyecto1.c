@@ -1,5 +1,5 @@
 /*
-    Autor: Jose Rodolfo Rojas Ocampo / Luis Fernando / Kevin
+    Autor: Jose Rodolfo Rojas Ocampo / Luis Fernando / Kevin Campos Castro
     Fecha: 28/02/2023
     Version: 1.0
 */
