@@ -1,3 +1,12 @@
+/*
+    Autor: Jose Rodolfo Rojas Ocampo / Luis Fernando / Kevin Campos Castro
+    Fecha: 28/02/2023
+    Version: 1.0
+*/
+/*
+    Programa que lee un txt de doubles e imprime en pantalla 
+    en forma ordenada la lista que se encuientra en el txt
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
